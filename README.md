@@ -2,6 +2,14 @@
 
 # DXMatrix Edition – Native Windows Build 💻🧠
 
+☕ Support My Work
+
+If you found this project useful, consider buying me a coffee to fuel more DXMatrix drops and open-source magic!
+
+https://buymeacoffee.com/dxmatrix
+
+Your support keeps this project thriving 💜
+
 🚀 A lightweight, **CPU-only**, **Windows 11 native build** of [Open WebUI](https://github.com/open-webui/open-webui), reimagined for DXMatrix-style workflows.
 
 [![Latest Release](https://img.shields.io/github/v/release/kizashix/docs?label=Release)](https://github.com/kizashix/docs/releases)
@@ -104,9 +112,6 @@ Made with 💜 by @kizashix
 Let's make AI personal, fast, and hacker-friendly again ⚡
 
 python
-Copy
-Edit
 
 ---
 
-Let me know if you want a matching **logo banner**, **dark/light mode badges**, or if you'd like me to auto-
