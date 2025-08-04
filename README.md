@@ -6,6 +6,9 @@
 
 If you found this project useful, consider buying me a coffee to fuel more DXMatrix drops and open-source magic!
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/be0b5f71-7177-4701-be65-ab966fdebdcd" />
+
+
 https://buymeacoffee.com/dxmatrix
 
 Your support keeps this project thriving 💜
